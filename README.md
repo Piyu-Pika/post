@@ -15,7 +15,7 @@ A Flutter application demonstrating best practices for API integration and cross
 ## 📦 Technical Specifications
 ```yaml
 SDK Requirements:
-  Flutter: 3.13.2 (revision 4145645)
+  Flutter: 3.16.9 
   Dart: ≥3.2.6 <4.0.0
   Android SDK: 33 (from .metadata migration data)
 
