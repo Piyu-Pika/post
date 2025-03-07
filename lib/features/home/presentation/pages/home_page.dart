@@ -3,6 +3,8 @@ import '../../domain/api.dart';
 import '../../data/model.dart';
 import '../widgets/card.dart';
 class PostViewer extends StatefulWidget {
+  const PostViewer({super.key});
+
   @override
   _PostViewerState createState() => _PostViewerState();
 }

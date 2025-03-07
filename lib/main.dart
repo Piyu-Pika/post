@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
       title: 'Flutter Demo',
       theme: postAppTheme,
       routes: AppRoutes.getRoutes(),
-      home: SplashScreen(),
+      home: const SplashScreen(),
     );
   }
 }

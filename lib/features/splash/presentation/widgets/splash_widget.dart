@@ -21,7 +21,7 @@ class _SplashWidgetState extends State<SplashWidget> {
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
-              Icon(
+              const Icon(
                 Icons.image,
                 size: 100,
                 color: PostAppColorScheme.onPrimary,
