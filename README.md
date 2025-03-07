@@ -88,6 +88,13 @@ lib/
             └── splash_widget.dart
 ```
 
+# Video Demo
+  
+
+https://github.com/user-attachments/assets/7629a993-0394-4f7c-989a-de7ef5a46396
+
+
+
 ## 🛠 Development Practices
 ### Coding Standards
 - **Flutter Lints v2** enabled (from `pubspec.yaml`)
